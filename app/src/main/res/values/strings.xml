@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenMontoya</string>
+    <string name="image_description">descripcion</string>
+    <string name="register_description">email</string>
+    <string name="card_description1">Este minino te está esperando. Tiene mucho amor que dar. Busca un hogar y ese lugar puede ser tu casa.</string>
+    <string name="card_description2">Esta carita de inocencia esconde un corazón lleno de pura diversión. Tus días dejarán de ser aburridos si adoptas a este lindo angelito.</string>
+    <string name="card_description3">Estos hermanitos buscan una linda familia para darles todo su amor. Llévalos contigo, adóptalos. No te arrepentirás.</string>
+
+</resources>
